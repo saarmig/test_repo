@@ -1,6 +1,12 @@
 <?php 
-echo "HERE 2";
 
-echo "CHANGES MADE FOR TESTING ";
+echo "
+
+
+	STILL TESTING GIT VERSION CONTROL
+	
+	NATI JOINS VERSION TEST 
+
+";
 
 ?>
